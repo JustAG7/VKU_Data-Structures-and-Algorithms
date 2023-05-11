@@ -1,0 +1,5 @@
+Checking element at index 4: 5
+Checking element at index 1: 2
+Checking element at index 2: 3
+Checking element at index 3: 4
+Target value found at index 3
