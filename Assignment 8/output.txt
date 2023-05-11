@@ -1,5 +1,34 @@
-Checking element at index 4: 5
-Checking element at index 1: 2
-Checking element at index 2: 3
-Checking element at index 3: 4
-Target value found at index 3
+Original Array: 10 8 2 7 3 4 9 1 6 5 
+Insertion Sort - Step 1: 8 10 2 7 3 4 9 1 6 5 
+Insertion Sort - Step 2: 2 8 10 7 3 4 9 1 6 5 
+Insertion Sort - Step 3: 2 7 8 10 3 4 9 1 6 5 
+Insertion Sort - Step 4: 2 3 7 8 10 4 9 1 6 5 
+Insertion Sort - Step 5: 2 3 4 7 8 10 9 1 6 5 
+Insertion Sort - Step 6: 2 3 4 7 8 9 10 1 6 5 
+Insertion Sort - Step 7: 1 2 3 4 7 8 9 10 6 5 
+Insertion Sort - Step 8: 1 2 3 4 6 7 8 9 10 5 
+Insertion Sort - Step 9: 1 2 3 4 5 6 7 8 9 10 
+insertionSort Sort: 0.059 miliseconds
+
+Bubble Sort - Step 1: 8 2 7 3 4 9 1 6 5 10 
+Bubble Sort - Step 2: 2 7 3 4 8 1 6 5 9 10 
+Bubble Sort - Step 3: 2 3 4 7 1 6 5 8 9 10 
+Bubble Sort - Step 4: 2 3 4 1 6 5 7 8 9 10 
+Bubble Sort - Step 5: 2 3 1 4 5 6 7 8 9 10 
+Bubble Sort - Step 6: 2 1 3 4 5 6 7 8 9 10 
+Bubble Sort - Step 7: 1 2 3 4 5 6 7 8 9 10 
+Bubble Sort - Step 8: 1 2 3 4 5 6 7 8 9 10 
+Bubble Sort - Step 9: 1 2 3 4 5 6 7 8 9 10 
+Bubble Sort: 0.054 miliseconds
+
+Selection Sort - Step 1: 1 8 2 7 3 4 9 10 6 5 
+Selection Sort - Step 2: 1 2 8 7 3 4 9 10 6 5 
+Selection Sort - Step 3: 1 2 3 7 8 4 9 10 6 5 
+Selection Sort - Step 4: 1 2 3 4 8 7 9 10 6 5 
+Selection Sort - Step 5: 1 2 3 4 5 7 9 10 6 8 
+Selection Sort - Step 6: 1 2 3 4 5 6 9 10 7 8 
+Selection Sort - Step 7: 1 2 3 4 5 6 7 10 9 8 
+Selection Sort - Step 8: 1 2 3 4 5 6 7 8 9 10 
+Selection Sort - Step 9: 1 2 3 4 5 6 7 8 9 10 
+selectionSort Sort: 0.036 miliseconds
+
