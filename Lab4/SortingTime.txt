@@ -1,0 +1,5 @@
+Bubble Sort: 0.019 miliseconds
+Selection Sort: 0.02 miliseconds
+Insertion Sort: 0.002 miliseconds
+Quick Sort: 0.097 miliseconds
+Merge Sort: 0.013 miliseconds
