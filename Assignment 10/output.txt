@@ -1,0 +1,3 @@
+Number of nodes in the tree: 7
+Number of leaves in the tree: 4
+Height of the tree: 2
